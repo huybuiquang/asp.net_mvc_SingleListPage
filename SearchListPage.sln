@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchListPage", "SearchListPage\SearchListPage.csproj", "{F457531E-5331-4679-882C-1487A479989E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{429229A4-6B98-4352-9473-94D3E25BB4EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F457531E-5331-4679-882C-1487A479989E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F457531E-5331-4679-882C-1487A479989E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F457531E-5331-4679-882C-1487A479989E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F457531E-5331-4679-882C-1487A479989E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{429229A4-6B98-4352-9473-94D3E25BB4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429229A4-6B98-4352-9473-94D3E25BB4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429229A4-6B98-4352-9473-94D3E25BB4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429229A4-6B98-4352-9473-94D3E25BB4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E39484CF-06F9-45A5-87AF-9D1281A61FD5}
+	EndGlobalSection
+EndGlobal
